@@ -1,6 +1,7 @@
 import jwt from "jsonwebtoken"
 
 
+
 const dataUser = [{id : 1,username : "nghia123",password : "123456"}]
 
 const sign = (user) => {
